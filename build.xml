@@ -1,0 +1,8 @@
+<project name="Ant" default="clean" basedir=".">
+
+    <target name="clean">
+	  
+	    <echo "Hello This is Working"/>
+    </target>
+
+</project>

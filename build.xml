@@ -2,7 +2,7 @@
 
     <target name="clean">
 	  
-	    <echo "Hello This is Working"/>
+	    <echo "Hello This is Working" />
     </target>
 
 </project>
